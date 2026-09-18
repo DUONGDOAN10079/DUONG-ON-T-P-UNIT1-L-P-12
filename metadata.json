@@ -1,0 +1,6 @@
+{
+  "name": "PHIẾU ÔN TẬP MÔN TIẾNG ANH UNIT 1 LỚP 12",
+  "description": "Ứng dụng Phiếu ôn tập môn Tiếng Anh Unit 1 lớp 12 - Biên soạn và giảng dạy: Cô Dương Đoàn. Luyện tập theo mức độ nhận biết, thông hiểu, vận dụng và xuất phiếu kết quả PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
